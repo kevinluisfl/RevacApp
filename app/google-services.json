@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "64749417070",
+    "project_id": "ciclo4-bde80",
+    "storage_bucket": "ciclo4-bde80.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64749417070:android:eb37c9fa3ed9092072ec7f",
+        "android_client_info": {
+          "package_name": "com.example.holamundo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "64749417070-lmt7pjc2sklejk6o565d2v298fmlprl8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.holamundo",
+            "certificate_hash": "906e418bffe80b75d5916610ec9aa3692fb4cf83"
+          }
+        },
+        {
+          "client_id": "64749417070-mronuv6b6oe7000s6mjvip6m8vj413ip.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd_bUBmcmKBJbz7VtJXaq7lxPxD9ALAsc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "64749417070-mronuv6b6oe7000s6mjvip6m8vj413ip.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
