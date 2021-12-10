@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">HolaMundo</string>
+    <string name="app_name">REVAC</string>
+    <string name="correo_electronico">Correo electrónico</string>
+    <string name="contrasena">Contraseña</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
 </resources>
