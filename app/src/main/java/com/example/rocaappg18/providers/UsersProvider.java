@@ -21,7 +21,7 @@ public class UsersProvider {
     }
 
     public Task<DocumentSnapshot> getUser(String id){
-        return mcolletion.document().get();
+        return mcolletion.document(id).get();
     }
 
     public  Task<Void> create(User user){

@@ -67,6 +67,7 @@ public class CompleteProfileActivity extends AppCompatActivity {
         mButtonRegister.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
+
                 register();
             }
         });

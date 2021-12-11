@@ -6,6 +6,7 @@
         <entry key="..\:/Desarrollo app/RocaAppG18/app/src/main/res/drawable-anydpi/ic_contacts.xml" value="0.2037037037037037" />
         <entry key="..\:/Desarrollo app/RocaAppG18/app/src/main/res/drawable-anydpi/ic_email.xml" value="0.2123076923076923" />
         <entry key="..\:/Desarrollo app/RocaAppG18/app/src/main/res/drawable-anydpi/ic_email_registro.xml" value="0.2037037037037037" />
+        <entry key="..\:/Desarrollo app/RocaAppG18/app/src/main/res/drawable-anydpi/ic_fingerprint.xml" value="0.2203125" />
         <entry key="..\:/Desarrollo app/RocaAppG18/app/src/main/res/drawable-anydpi/ic_keyboard_arrow_left.xml" value="0.2123076923076923" />
         <entry key="..\:/Desarrollo app/RocaAppG18/app/src/main/res/drawable-anydpi/ic_location_city.xml" value="0.2203125" />
         <entry key="..\:/Desarrollo app/RocaAppG18/app/src/main/res/drawable-anydpi/ic_phone.xml" value="0.2037037037037037" />
@@ -26,8 +27,9 @@
         <entry key="..\:/Desarrollo app/RocaAppG18/app/src/main/res/layout/activity_complete_profile.xml" value="0.20416666666666666" />
         <entry key="..\:/Desarrollo app/RocaAppG18/app/src/main/res/layout/activity_home.xml" value="0.20416666666666666" />
         <entry key="..\:/Desarrollo app/RocaAppG18/app/src/main/res/layout/activity_main.xml" value="0.25" />
-        <entry key="..\:/Desarrollo app/RocaAppG18/app/src/main/res/layout/activity_post.xml" value="0.20416666666666666" />
+        <entry key="..\:/Desarrollo app/RocaAppG18/app/src/main/res/layout/activity_post.xml" value="0.25" />
         <entry key="..\:/Desarrollo app/RocaAppG18/app/src/main/res/layout/activity_register.xml" value="0.25" />
+        <entry key="..\:/Desarrollo app/RocaAppG18/app/src/main/res/layout/fragment_blank.xml" value="0.1" />
         <entry key="..\:/Desarrollo app/RocaAppG18/app/src/main/res/layout/fragment_chats.xml" value="0.20416666666666666" />
         <entry key="..\:/Desarrollo app/RocaAppG18/app/src/main/res/layout/fragment_filters.xml" value="0.20416666666666666" />
         <entry key="..\:/Desarrollo app/RocaAppG18/app/src/main/res/layout/fragment_home.xml" value="0.20416666666666666" />

@@ -19,6 +19,7 @@ public class HomeActivity extends AppCompatActivity {
 
     BottomNavigationView bottomNavigation;
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -26,6 +27,7 @@ public class HomeActivity extends AppCompatActivity {
 
         bottomNavigation=findViewById(R.id.bottom_navigation);
         bottomNavigation.setOnNavigationItemSelectedListener(navigationItemSelectedListener);
+        openFragment(new HomeFragment());
 
     }
 
